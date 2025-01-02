@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="Generic_Utility.ExtentReportConfig"/>
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.qspiders.organization.CreateOrganizationTest"/>
+      <class name="org.qspiders.contact.CreateContactTest"/>
+      <class name="org.qspider.product.CreateProductTest"/>
+      <class name="org.qspiders.organization.CreateCampaignTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

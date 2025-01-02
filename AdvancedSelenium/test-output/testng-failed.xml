@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="org.qspiders.organization.CreateCampaignTest">
+        <methods>
+          <include name="Ac"/>
+          <include name="Bt"/>
+          <include name="As"/>
+          <include name="At"/>
+          <include name="Bc"/>
+          <include name="Bs"/>
+          <include name="execute"/>
+          <include name="createCampaignTest"/>
+          <include name="Bm"/>
+          <include name="Am"/>
+        </methods>
+      </class> <!-- org.qspiders.organization.CreateCampaignTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
