@@ -4,7 +4,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class DataProviderEx1 {
-	
+	//This is a data provider for push
 	@Test(dataProvider ="getData")
 	public void bookTickets(String srcLoc, String DestLoc) {
 		
