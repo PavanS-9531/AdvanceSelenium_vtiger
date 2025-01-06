@@ -19,9 +19,18 @@ public class DebuggingProgram {
 		b=temp;
 		System.out.println(a);
 		System.out.println(b);
+
 		//code from branch1
 		//I am branch12
 		//Branch1 trial2
+
+
+		
+		//I am branch1
+
+	
+
+>>>>>>> branch 'Branch1' of https://github.com/PavanS-9531/AdvanceSelenium_vtiger.git
 
 	}
 
