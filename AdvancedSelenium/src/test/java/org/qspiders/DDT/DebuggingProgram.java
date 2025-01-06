@@ -20,7 +20,7 @@ public class DebuggingProgram {
 		System.out.println(a);
 		System.out.println(b);
 		//code from branch1
-		//I a branch1
+		//I am branch1
 
 	}
 
